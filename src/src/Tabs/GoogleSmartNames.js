@@ -177,6 +177,7 @@ class GoogleSmartNames extends Component {
                     'action.devices.traits.Modes':          'Modes',
                     'action.devices.traits.OnOff':          'OnOff',
                     'action.devices.traits.OpenClose':      'OpenClose',
+                    'action.devices.traits.Rotation':      'Rotation',
                     // 'action.devices.traits.RunCycle':    'RunCycle',
                     'action.devices.traits.Scene':          'Scene',
                     // 'action.devices.traits.Sensor':      'Sensor',
